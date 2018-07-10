@@ -14,7 +14,7 @@ var solution = Math.floor(Math.random() * 100) + 1;
 //console.log("(La solution est " + solution + ")");
 
 // TODO : complétez le programme
-for(i=0; i<7; i++)
+for(i=1; i<7; i++)
 {
 	nombre = Number(prompt("Trouvez le nombre mystère avec au maximum 6 essais: "));
 
